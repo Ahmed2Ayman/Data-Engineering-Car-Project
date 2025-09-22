@@ -1,0 +1,24 @@
+FuelType_SK,FuelType
+1,plug in hyrbrid
+2,Petrol
+3,Diesel
+4,Hybrid
+5,Electric
+6,Petrol/Diesel
+7,Plug-in Hybrid
+8,Petrol/AWD
+9,Petrol/Hybrid
+10,Hydrogen
+11,Diesel/Petrol
+12,Petrol/EV
+13,Hybrid/Electric
+14,"Petrol, Hybrid"
+15,"Petrol, Diesel"
+16,Hybrid (Petrol)
+17,CNG/Petrol
+18,Hybrid/Petrol
+19,Diesel Hybrid
+20,Petrol (Hybrid)
+21,Hybrid (Gas + Electric)
+22,Gas / Hybrid
+23,Hybrid / Plug-in

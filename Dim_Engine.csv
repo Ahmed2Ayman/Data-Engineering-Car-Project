@@ -1,0 +1,493 @@
+Engine_SK,Engine_Name,Engine_Capacity
+1,V8,3990 cc
+2,V12,6749 cc
+3,1.2L Petrol,"1,200 cc"
+4,V8,"3,982 cc"
+5,V10,"5,204 cc"
+6,V8,"3,994 cc"
+7,V8,"3,996 cc"
+8,V12,"6,498 cc"
+9,V8,"3,900 cc"
+10,V12,6496 cc
+11,V12,"6,496 cc"
+12,I4,"2,998 cc"
+13,BOXER-4,"1,998 cc"
+14,BOXER-4,"2,387 cc"
+15,V8,"5,663 cc"
+16,V6,"3,799 cc"
+17,V6,"3,696 cc"
+18,V6,"2,998 cc"
+19,I4,"2,488 cc"
+20,V6,"3,498 cc"
+21,I4,"1,998 cc"
+22,V8,"5,598 cc"
+23,V12,"5,204 cc"
+24,V12,"5,935 cc"
+25,V8,"3,998 cc"
+26,V12,"6,592 cc"
+27,V12,"6,749 cc"
+28,I4,1991 cc
+29,V6,"2,996 cc"
+30,I4,"1,991 cc"
+31,V12,"5,980 cc"
+32,V8,"4,395 cc"
+33,I6,"2,993 cc"
+34,V8,"4,935 cc"
+35,V8,"3,993 cc"
+36,V6,"2,995 cc"
+37,I4,"1,984 cc"
+38,ELECTRIC ,95 kwh
+39,ELECTRIC,95 kwh
+40,ELECTRIC MOTOR,11.6 kwh
+41,I6,"2,998 cc"
+42,I3,"1,499 cc"
+43,I3,"1,496 cc"
+44,I4,"1,995 cc"
+45,I4,"1,598 cc"
+46,I6,"1,969 cc"
+47,I4,"2,480 cc"
+48,I4,"1,996 cc"
+49,I4 + ELECTRIC,"1,600 cc / 13.8 kwh"
+50,I4,"1,498 cc"
+51,I4 + ELECTRIC,"1,600 cc / 1.49 kwh"
+52,I4 + ELECTRIC,"1,598 cc / 13.8 kwh"
+53,V6,"3,471 cc"
+54,V6,"3,500 cc"
+55,I4,"1,798 cc"
+56,I4,"2,494 cc"
+57,V6,"3,456 cc"
+58,V6,"3,956 cc"
+59,I4,"2,694 cc"
+60,V6,"2,494 cc"
+61,I4,"1,496 cc"
+62,I4,"1,986 cc"
+63,ELECTRIC,"64.8 kwh (Base Model),72.8 kwh (Higher End Model"
+64,HYBRID,"2,494 cc"
+65,I4,"1,497 cc"
+66,"1.2L,4-CYLINDER,INLINE-4(I4)","1,197 cc"
+67,"1.4L,4-CYLINDER,INLINE-4(I4)","1,396 cc"
+68,"2.0L,4-CYLINDER,INLINE-4(I4)","1,999 cc"
+69,"2.2L,4-CYLINDER,INLINE-4(I4)","2,179 cc"
+70,"2.0L,4-CYLINDER,INLINE-4(I4)","1,997 cc"
+71,"1.5L,4-CYLINDER,INLINE(I4)","1,462 cc"
+72,"2.0L,4-CYLINDER,WITH HYBRID SYSTEM","1,998 cc"
+73,"1.6L,TURBOCHARGED INLINE-3","1,618 cc"
+74,"3.3L,V6,TWIN TURBO DIESEL","3,346 cc"
+75,"3.5L,V6,HYBRID TWIN-TURBO","3,445 cc"
+76,"2.0L,INLINE-4","1,987 cc"
+77,"HYDROGEN FUEL CELL,ELECTRIC MOTOR",1.24 kwh
+78,"2.8L,TURBO,DIESEL","2,755 cc"
+79,"2.5L,INLINE-4,HYBRID,OR 3.5L,V6","HYBRID(2,494 cc),V6(3,456 cc)"
+80,2.0L HYBRID,"1,987 cc"
+81,"4.0L,DIESEL","4,009 cc"
+82,"1.5L,HYBRID","1,490 cc"
+83,"1.0L,INLINE-3",998 cc
+84,ELECTRIC MOTOR,75 KWH
+85,"3.5L,V6,PLUG IN HYBRID","3,456 cc"
+86,"1.8L,HYBRID","1,798 cc"
+87,ELECTRIC MOTOR,65 KWH
+88,1.6L PETROL + PLUG IN HYBRID SYSTEM,"1,600 cc"
+89,ELECTRIC MOTOR,72.6 KWH
+90,2.5L Turbocharged Inline-4,"2,500 cc"
+91,1.6L PETROL ,"1,591 cc"
+92,2.0L Inline-4,"2,000 cc"
+93,Electric Motor,53.6 kwh(Standard Range) / 77.4 kwh(Long Range)
+94,2.5L Inline-4,"2,500 cc"
+95,3.8L V6,"3,800 cc"
+96,1.6L Inline-4,"1,600 cc"
+97,Electric Motor,39.2 kwh
+98,Electric Motor,1.56 kwh
+99,3.3L V6,"3,300 cc"
+100,1.6L Turbo GDI 4-cylinder,"2,000 cc"
+101,1.5L Turbo I4 / Electric,1498 cc / 40 - 58 kWh
+102,2.0L Turbo I4,1984 cc
+103,1.5L Turbo I4,1498 cc
+104,1.0L Turbo I3 / 1.6L Diesel,999 cc / 1598 cc
+105,Electric,77 kWh
+106,Electric,32.3 kWh
+107,3.0L V6 Turbo Diesel / 4.0L V8,2967 cc / 3956 cc
+108,3.0L V6 Turbo Diesel,2967 cc
+109,4.0L V6,3954 cc
+110,Electric,58 - 77 kWh
+111,2.0L Turbo Diesel I4,1968 cc
+112,1.0L Turbo I3,999 cc
+113,1.0L Turbo I3 / 1.5L Turbo I4,999 cc / 1498 cc
+114,Plug-in Hybrid V6,2995 cc
+115,Plug-in Hybrid / Diesel I4,1395 cc / 1968 cc
+116,1.2L Diesel I3,1199 cc
+117,Electric AWD,77 kWh
+118,Electric,58 kWh
+119,1.5L Turbo I4 / 2.0L Diesel I4,1498 cc / 1968 cc
+120,1.4L I3 Gas / 1.2L Diesel I3,1390 cc / 1199 cc
+121,2.9L VR6,2861 cc
+122,3.0L V6 Diesel / 6.0L W12 Gas,2967 cc / 5998 cc
+123,1.2L I4 Turbo / 2.0L I4 Turbo,1197 cc / 1984 cc
+124,1.5L I4 Gas,1498 cc
+125,1.4L I4 Gas / 1.6L I4 Gas,1390 cc / 1598 cc
+126,1.2L I4 Gas,1192 cc
+127,1.2L I4 Gas / 1.4L I4 Gas,1198 cc / 1390 cc
+128,1.6L I4 Gas / Diesel,1598 cc
+129,Electric,35.8 kWh
+130,1.6L I4 Gas / 1.9L I4 Diesel,1598 cc / 1896 cc
+131,2.0L I4 Turbo / 3.6L V6 Gas,1984 cc / 3597 cc
+132,1.5L I4 Turbo,1498 cc
+133,1.0L I3 Turbo,999 cc
+134,1.0L I3 Turbo / 1.5L I4 Turbo,999 cc / 1498 cc
+135,2.0L I4 Turbo,1984 cc
+136,2.0L I4 Turbo Diesel,1968 cc
+137,Electric,~50 kWh (Estimate)
+138,1.4L I4 Diesel / 1.6L Diesel,1390 cc / 1598 cc
+139,Plug-in Hybrid (1.4L I4 Turbo),1395 cc + Electric Motor
+140,4.0L V8 Turbo Diesel,3956 cc
+141,1.4L I4 Turbo,1395 cc
+142,1.5L I4 Turbo / 2.0L Diesel,1498 cc / 1968 cc
+143,1.8L I4 Gas,1781 cc
+144,3.2L VR6,3189 cc
+145,1.6L Diesel / 2.0L I4 Turbo,1598 cc / 1984 cc
+146,2.0L Diesel I4,1968 cc
+147,1.6L Turbocharged Rally Engine,1598 cc
+148,1.4L I4 Turbo + Electric Motor,1395 cc
+149,Plug-in Hybrid (0.8L I2 Diesel),800 cc + Electric Motor
+150,1.5L I4 CNG,1498 cc
+151,1.4L I4 Turbo / 2.0L Diesel I4,1395 cc / 1968 cc
+152,3.0L V6 Turbo Diesel / Gasoline,2967 cc
+153,1.4L I4 Turbo + Electric Motor,1395 cc + Battery
+154,4.0L V8 Turbo Diesel,3996 cc
+155,1.6L Inline-4,1598 cc
+156,1.0L Turbocharged Inline-3,999 cc
+157,5.6L V8,5552 cc
+158,1.3L Turbocharged Inline-4,1332 cc
+159,3.5L V6,3498 cc
+160,1.5L Turbocharged Inline-3,1498 cc
+161,3.0L Twin-Turbo V6,2997 cc
+162,1.8L Inline-4,1798 cc
+163,1.2L Inline-3 Hybrid,1198 cc
+164,1.5L Inline-4 Diesel,1461 cc
+165,3.8L Twin-Turbo V6,3799 cc
+166,3.7L V6,3696 cc
+167,Dual Electric Motors,87 kWh
+168,1.2L Turbocharged Inline-4,1197 cc
+169,1.5L Inline-4,1498 cc
+170,2.0L Inline-4,1997 cc
+171,1.2L Inline-3,1198 cc
+172,2.0L Inline-4 Hybrid,1997 cc
+173,3.0L V6 Twin-Turbo,2997 cc
+174,2.0L Inline-4,1998 cc
+175,2.0L Inline-6,1998 cc
+176,2.5L V6,2498 cc
+177,1.8L Inline-4,1796 cc
+178,4.8L Inline-6,4750 cc
+179,2.5L Inline-4 Hybrid,2488 cc
+180,2.5L Inline-4,2498 cc
+181,1.5L Turbo Inline-3,1497 cc
+182,1.3L Turbo Hybrid Inline-4,1332 cc
+183,5.0L V8,5026 cc
+184,1.8L Inline-4,1838 cc
+185,3.0L V6,2960 cc
+186,1.6L Turbo Inline-4,1598 cc
+187,2.4L Inline-4,2438 cc
+188,2.6L Twin-Turbo Inline-6,2568 cc
+189,2.0L VC-Turbo Inline-4,1997 cc
+190,2.5L Inline-4 Diesel,2488 cc
+191,2.3L Inline-4 Diesel,2298 cc
+192,1.4L Inline-4,1397 cc
+193,2.8L Inline-6 Diesel,2825 cc
+194,2.0L Turbo Inline-4,1998 cc
+195,2.7L Inline-4 Diesel,2664 cc
+196,1.5L Turbo Hybrid,1497 cc
+197,3.0L Twin-Turbo V6 Hybrid,3000 cc
+198,1.6L Inline-4,1595 cc
+199,3.0L Twin-Turbo V6,2960 cc
+200,3.5L Twin-Turbo V8,3495 cc
+201,1.0L Turbo Inline-4,987 cc
+202,2.4L Inline-4,2389 cc
+203,3.0L Inline-4 Diesel,2999 cc
+204,660cc Inline-3,659 cc
+205,1.8L Inline-4,1770 cc
+206,1.6L Inline-4,1597 cc
+207,1.5L Hybrid,1497 cc
+208,4.5L V8,4494 cc
+209,2.4L Inline-6,2393 cc
+210,2.5L Inline-4 Diesel,2498 cc
+211,1.2L Hybrid,1198 cc
+212,1.8L Inline-4,1769 cc
+213,1.5L Inline-4,1497 cc
+214,2.7L Turbo Diesel,2663 cc
+215,4.2L Inline-6,4169 cc
+216,3.3L V6,3275 cc
+217,4.1L V8,4130 cc
+218,3.0L V6 Turbo,2960 cc
+219,2.8L Inline-6,2753 cc
+220,1.8L Turbo Inline-4,1809 cc
+221,1.8L Inline-4,1839 cc
+222,3.0L Inline-4 Diesel,2953 cc
+223,2.9L V6 Twin Turbo,2894 cc
+224,4.0L V8 Twin Turbo,3996 cc
+225,2.9L V6 + Electric Motor,17.9 kWh Battery
+226,4.0L V8 + Electric Motor,17.9 kWh Battery
+227,3.0L V6 Turbo,2995 cc
+228,3.0L Flat-6 Twin Turbo,2981 cc
+229,3.0L Twin-Turbo Flat-6,2981 cc
+230,3.8L Twin-Turbo Flat-6,3745 cc
+231,4.0L Naturally Aspirated Flat-6,3996 cc
+232,Dual Electric Motors,79.2 kWh
+233,Dual Electric Motors,93.4 kWh
+234,2.0L Turbocharged Flat-4,1988 cc
+235,2.5L Turbocharged Flat-4,2497 cc
+236,4.0L Naturally Aspirated Flat-6,3995 cc
+237,2.0L Turbo Flat-4,1988 cc
+238,2.9L Twin-Turbo V6,2894 cc
+239,2.9L Twin-Turbo V6 + Electric Motor,2894 cc
+240,4.0L Twin-Turbo V8 + Electric Motor,3996 cc
+241,4.0L Twin-Turbo V8,3996 cc
+242,2.0L Turbo Inline-4,1984 cc
+243,Dual Electric Motors,95 kWh
+244,3.0L Turbocharged V6,2995 cc
+245,3.0L V6 + Electric Motor,2995 cc
+246,3.0L Turbo Diesel V6,2967 cc
+247,2.0L Turbo Inline-4 Gasoline,2000 cc
+248,2.7L Turbo Inline-4 Gasoline,2700 cc
+249,3.0L Twin-Turbo V6 Gasoline,3000 cc
+250,4.2L Naturally Aspirated Flat-6,4194 cc
+251,1.2L Revotron 3-cylinder Petrol,1199 cc
+252,Permanent Magnet Synchronous,24 kWh
+253,1.2L Revotron Petrol / 1.5L Diesel,1199 cc / 1497 cc
+254,1.2L Turbocharged Petrol,1199 cc
+255,1.2L Revotron Bi-Fuel,1199 cc
+256,624cc MPFI,624 cc
+257,1.4L CR4 Diesel,1396 cc
+258,1.2L MPFI Petrol,1193 cc
+259,Permanent Magnet Synchronous,26 kWh
+260,1.3L Quadrajet Diesel / 1.2L Revotron Petrol,1248 cc / 1199 cc
+261,6.2L V8 Gasoline,6200 cc
+262,1.4L CR4 Diesel / 1.4L Petrol,1396 cc
+263,1.3L Quadrajet Diesel / 1.4L Petrol,1248 cc / 1368 cc
+264,1.4L MPFI Petrol,1396 cc
+265,1.2L Turbo Petrol / 1.5L Diesel,1199 cc / 1497 cc
+266,Permanent Magnet Synchronous,40.5 kWh
+267,2.0L Kryotec Turbocharged Diesel,1956 cc
+268,1.2L Revotron Petrol,1199 cc
+269,2.2L Varicor Diesel,2179 cc
+270,2.2L Dicor Diesel,2179 cc
+271,3.0L CR4 Diesel,2956 cc
+272,Permanent Magnet Synchronous,30.2 kWh
+273,Dual Electric Motors,100 kWh
+274,Tri Electric Motors,100 kWh
+275,Single Electric Motor (RWD),60 kWh
+276,Dual Electric Motors (AWD),82 kWh
+277,Dual Electric Motors (AWD),100 kWh
+278,Single Electric Motor (RWD),75 kWh
+279,Tri Electric Motors,200 kWh
+280,Quad Electric Motors,200 kWh
+281,3.6L V6 Pentastar Gasoline,3600 cc
+282,2.0L Turbo I4 Gasoline,2000 cc
+283,2.4L I4 Tigershark Gasoline,2400 cc
+284,2.0L Turbo Gasoline,2000 cc
+285,1.3L Turbo I4 Gasoline,1300 cc
+286,5.7L V8 Gasoline with eTorque,5700 cc
+287,6.4L V8 Gasoline,6400 cc
+288,2.0L Turbo PHEV,17.3 kWh
+289,1.3L Turbo PHEV,11.4 kWh
+290,1.5L 4-Cylinder,"1,500 cc"
+291,5.7L V8 Gasoline,5700 cc
+292,3.2L V6 Pentastar Gasoline,3200 cc
+293,6.4L V8 HEMI Gasoline,6400 cc
+294,3.6L V6 Gasoline,3600 cc
+295,Single Electric Motor,100 kWh
+296,6.2L Supercharged V8 Gasoline,6200 cc
+297,3.6L Twin-Turbo V6 Gasoline,3600 cc
+298,1.4L Inline-4 Gasoline,1400 cc
+299,1.4L Turbo Inline-4 Gasoline,1400 cc
+300,1.5L Turbo Inline-4 Gasoline,1500 cc
+301,5.3L V8 Gasoline,5300 cc
+302,6.6L V8 Gasoline,6600 cc
+303,6.6L V8 Diesel,6600 cc
+304,Single Electric Motor,66 kWh
+305,1.3L Turbo Inline-3 Gasoline,1300 cc
+306,2.8L Turbo Diesel I4,2800 cc
+307,1.2L Turbo Inline-3 Gasoline,1200 cc
+308,4.3L V6 Gasoline,4300 cc
+309,2.5L Inline-4 Gasoline,2500 cc
+310,1.5L Turbo 4-cylinder,1500 cc
+311,2.0L Turbo 4-cylinder,2000 cc
+312,2.7L Turbo 4-cylinder,2700 cc
+313,Dual-Motor Electric,212 kWh
+314,3.6L V6 engine,"3,564 cc"
+315,5.3L V8 engine,"5,327 cc"
+316,2.7L Turbo engine,"2,713 cc"
+317,6.6L V8 engine,"6,600 cc"
+318,2.5L I4 engine,"2,488 cc"
+319,6.2L V8 engine,"6,162 cc"
+320,1.5L Turbocharged I4 engine,"1,490 cc"
+321,"Electric motors with up to 11,500 lb-ft torque",200 kWh
+322,4.3L V6 engine,"4,300 cc"
+323,Electric motors with advanced AWD,200 kWh
+324,1.6L 4-Cylinder,1591 cc
+325,1.6L Turbocharged 4-Cylinder,1591 cc
+326,Hybrid I4 + Electric Motor,"1,599 cc (petrol) + Electric Motor"
+327,2.5L Turbocharged 4-Cylinder,2500 cc
+328,3.8L V6,3778 cc
+329,2.0L 4-Cylinder,1999 cc
+330,1.6L 4-Cylinder Hybrid,1591 cc
+331,Electric Motor,77.4 kWh
+332,1.6L Hybrid Turbocharged 4-Cylinder,1591 cc
+333,3.5L V6,3500 cc
+334,Hybrid I4 + Electric Motor,"1,598 cc (petrol) + Electric Motor"
+335,2.5L 4-Cylinder,2500 cc
+336,3.3L Turbocharged V6,3300 cc
+337,2.5L Hybrid Turbocharged 4-Cylinder,1591 cc
+338,Hybrid I4+ Electric Motor,"1,599 cc (Petrol) + Electric Motor"
+339,Electric Motor,50 kWh
+340,8.0L Quad-Turbo W16,7993 cc
+341,13.0L I6 Turbo Diesel,13000 cc
+342,16.1L I6 Turbo Diesel,16100 cc
+343,12.8L I6 Turbo Diesel,12800 cc
+344,7.7L I6 Turbo Diesel,7700 cc
+345,5.1L I4 Turbo Diesel,5100 cc
+346,V6 / V8 Petrol,2995 cc (V6)
+347,I4 Petrol,1999 cc (I4)
+348,V6 Petrol,2995 cc (V6)
+349,Electric (Dual Motor),90 kWh (Battery)
+350,I4 Petrol / V6 Petrol,1999 cc (I4) / 2995 cc (V6)
+351,I4 Petrol,1998 cc (I4)
+352,V8 Petrol,5000 cc (V8)
+353,I4 Petrol + Electric Motor,1999 cc (I4) + Electric
+354,Twin-Turbo V6 Hybrid,"3,493 cc (V6)"
+355,V6,"3,500 cc (V6)"
+356,I4 Turbocharged,"1,500 cc (I4)"
+357,I4,"2,400 cc (I4)"
+358,Inline-4,"2,400 cc"
+359,V6 Hybrid,"3,500 cc"
+360,Inline-4 Hybrid,"1,500 cc"
+361,Twin-Turbo V6 Hybrid,"3,493 cc"
+362,Inline-4 Turbocharged,"1,500 cc"
+363,Turbocharged I4,"1,500 cc"
+364,Turbocharged V6,"3,000 cc"
+365,Inline-4,"1,199 cc"
+366,Inline-4,"1,598 cc"
+367,Inline-4,"1,998 cc"
+368,Diesel I4,"1,560 cc"
+369,Diesel I4,"1,997 cc"
+370,Diesel I4,"2,200 cc"
+371,Hybrid I4,"1,598 cc (petrol) + Electric Motor"
+372,Inline-4,"1,499 cc"
+373,Inline-4,"1,560 cc"
+374,Inline-4,"1,997 cc"
+375,Inline-4,"2,200 cc"
+376,Electric Motor,-
+377,1.5L EcoBoost / 2.0L Hybrid,"1,500 - 2,000 cc"
+378,3.5L V6 / 2.0L EcoBoost,"2,000 - 3,500 cc"
+379,1.0L EcoBoost / 1.5L,"1,000 - 1,500 cc"
+380,1.0L EcoBoost / 1.5L / 2.0L,"1,000 - 2,000 cc"
+381,1.0L Turbo Inline-3 / 2.0L,"1,000 - 2,000 cc"
+382,1.5L EcoBoost / 2.5L Hybrid,"1,500 - 2,500 cc"
+383,2.0L EcoBoost / 2.7L V6,"2,000 - 2,700 cc"
+384,2.3L EcoBoost / 3.0L V6,"2,300 - 3,000 cc"
+385,3.5L EcoBoost / 5.4L V8,"3,500 - 5,400 cc"
+386,2.3L EcoBoost / 2.7L V6,"2,300 - 2,700 cc"
+387,1.5L EcoBoost / 2.0L EcoBoost,"1,500 - 2,000 cc"
+388,3.3L V6 / 5.0L V8 / 3.5L EcoBoost,"3,300 - 5,000 cc"
+389,6.2L V8 / 7.3L V8 / 6.7L Turbo-Diesel,"6,200 - 7,300 cc"
+390,6.7L Turbo-Diesel / 7.3L V8,"6,700 - 7,300 cc"
+391,2.5L Hybrid / 2.0L EcoBoost,"2,500 - 2,000 cc"
+392,2.3L Turbo Inline-4 / 2.7L V6,"2,300 - 2,700 cc"
+393,Electric Motor,Battery (68-98 kWh)
+394,Electric Motor,Battery (98 kWh)
+395,2.5L Inline-4 + Electric,"2,500 cc"
+396,3.3L V6 + Electric,"3,300 cc"
+397,5.0L V8,"5,000 cc"
+398,3.5L Twin-Turbo V6,"3,500 cc"
+399,2.3L Turbo Inline-4,"2,300 cc"
+400,1.5L Turbo Inline-3,"1,500 cc"
+401,3.0L Twin-Turbo V6,"3,000 cc"
+402,2.7L Twin-Turbo V6,"2,700 cc"
+403,Turbocharged Inline-3,"1,000 cc"
+404,Turbocharged Inline-4,"1,500 cc"
+405,Turbocharged Inline-4,"2,000 cc"
+406,Naturally Aspirated V6,"3,500 cc"
+407,EcoBlue Turbo Diesel,"2,000 cc"
+408,Inline-4 Gasoline Engine,"2,000 cc"
+409,Turbocharged V8 Diesel,"6,700 cc"
+410,Supercharged V8,"5,200 cc"
+411,Naturally Aspirated V8,"5,200 cc"
+412,Turbocharged V6,"3,500 cc"
+413,V8 Gasoline Engine,"7,300 cc"
+414,Electric Motor,89 kWh (Electric)
+415,V6 Hybrid + Electric Motor,"3,000 cc (petrol) + Electric Motor"
+416,I4 Hybrid,"2,500 cc (petrol) + Electric Motor"
+417,V8 Gasoline Engine,"5,000 cc"
+418,I4 Turbo Diesel,"2,000 cc"
+419,V6 EcoBoost,"2,700 cc"
+420,V6 Turbocharged,"3,000 cc"
+421,1.2L MIVEC,"1,200 cc"
+422,2.5L 4-Cylinder,"2,500 cc"
+423,2.4L Hybrid,"2,400 cc / 20 kWh battery"
+424,1.5L Turbo,"1,500 cc"
+425,2.0L MIVEC,"2,000 cc"
+426,3.2L Diesel Turbo,"3,200 cc"
+427,2.4L Diesel Turbo,"2,400 cc"
+428,2.0L Turbocharged,"2,000 cc"
+429,Electric Motor,16 kWh battery
+430,1.5L MIVEC,"1,500 cc"
+431,2.2L Diesel Turbo,"2,200 cc"
+432,1.1L / 1.5L MIVEC,"1,100 - 1,500 cc"
+433,2.4L MIVEC,"2,400 cc"
+434,1.6L MIVEC / 2.0L,"1,600 - 2,000 cc"
+435,2.0L Diesel / 2.2L Diesel,"2,000 - 2,200 cc"
+436,3.0L Diesel,"3,000 cc"
+437,1.6L MIVEC,"1,600 cc"
+438,2.4L PHEV,"2,400 cc"
+439,7.5L Diesel,"7,500 cc"
+440,3.0L Diesel Hybrid,"3,000 cc"
+441,1.8L MIVEC,"1,800 cc"
+442,0.7L 3-Cylinder,660 cc
+443,2.4L Petrol,"2,400 cc"
+444,2.0L 4-Cylinder,"2,000 cc"
+445,2.4L 4-Cylinder,"2,400 cc"
+446,1.5L Turbocharged,"1,500 cc"
+447,3.0L V6,"3,000 cc"
+448,2.0L SkyActiv-G,"2,000 cc"
+449,2.5L SkyActiv-G,"2,500 cc"
+450,2.5L Turbocharged,"2,500 cc"
+451,2.2L Diesel,"2,200 cc"
+452,3.3L Inline-6 Turbo,"3,300 cc"
+453,Electric Motor,35.5 kWh battery
+454,2.3L Turbocharged,"2,300 cc"
+455,2.5L Diesel,"2,500 cc"
+456,3.2L Turbo Diesel,"3,200 cc"
+457,1.3L Rotary Twin-Turbo,"1,300 cc"
+458,1.2L Rotary,"1,200 cc"
+459,1.5L Inline-4,"1,500 cc"
+460,1.5L SkyActiv-G,"1,500 cc"
+461,2.3L Miller Cycle V6,"2,300 cc"
+462,2.0L Twin-Rotor Turbo,"2,000 cc"
+463,1.3L Rotary,"1,300 cc"
+464,1.8L Rotary,"1,800 cc"
+465,660cc Inline-3,660 cc
+466,657cc Turbocharged Inline-3,657 cc
+467,2.5L V6,"2,500 cc"
+468,2.6L Inline-4,"2,600 cc"
+469,1.8L Inline-4,"1,800 cc"
+470,3.0L Inline-4,"3,000 cc"
+471,3.0L Inline-6,"3,000 cc"
+472,1.3L Inline-4,"1,300 cc"
+473,1.2L Inline-4,"1,200 cc"
+474,1.3L Inline-2 (Wankel),"1,308 cc"
+475,1.6L Inline-2 (Wankel),"1,588 cc"
+476,1.0L Inline-2 (Wankel),"1,000 cc"
+477,2.0L Inline-4,"1,998 cc"
+478,1.6L Inline-4,"1,590 cc"
+479,1.3L Wankel + Electric,"1,308 cc"
+480,0.36L Inline-2,360 cc
+481,1.3L Inline-4,"1,298 cc"
+482,0.66L Inline-3,657 cc
+483,1.5L Inline-4,"1,497 cc"
+484,1.6L Inline-4,"1,598 cc"
+485,1.8L Inline-4,"1,798 cc"
+486,1.3L Wankel Rotary Engine,"1,308 cc"
+487,2.6L Wankel Rotary Engine,"2,620 cc"
+488,2.5L Hybrid I4,2487 cc
+489,2.4L Turbo I4 (i-FORCE MAX Hybrid),2393 cc + Battery
+490,2.0L Gas / 2.0L Hybrid,1987 cc / Hybrid batt
+491,1.8L / 2.0L Hybrid,1798 / 1987 cc + batt
+492,2.5L Hybrid / Plug-in Hybrid,2487 cc + batt

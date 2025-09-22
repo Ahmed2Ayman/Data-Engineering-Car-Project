@@ -1,0 +1,1201 @@
+Model_SK,ModelName
+1,SF90 STRADALE
+2,PHANTOM
+3,KA+
+4,GT 63 S
+5,AUDI R8 Gt
+6,Mclaren 720s
+7,VANTAGE F1
+8,Continental GT Azure
+9,VENENO ROADSTER
+10,F8 TRIBUTO
+11,812 GTS
+12,PORTOFINO
+13,ROMA
+14,MONZA SP2
+15,F8 SPIDER
+16,PORTOFINO M
+17,ROMA SPIDER
+18,GR SUPRA
+19,TOYOTA 86
+20,TOYOTA  GR86
+21,TOYOTA LAND CRUISER
+22,TOYOTA SEQUOIA
+23,GT-R
+24,370Z
+25,Z PROTO
+26,ALTIMA
+27,MAXIMA
+28,SENTRA
+29,ROGUE
+30,PATHFINDER
+31,FRONTIER
+32,TITAN
+33,VALKYRIE
+34,VALHALLA
+35,DBS SUPERLEGGERA
+36,DB11
+37,VANTAGE
+38,DBX
+39,RAPIDE AMR
+40,VANQUISH
+41,LAGONDA TARAF
+42,VICTOR
+43,SIAN
+44,AVENTADOR SVJ
+45,HURACAN PERFORMANTE
+46,HURACAN EVO
+47,AVENTADOR SV
+48,URUS
+49,HURACAN SPYDER
+50,AVENTADOR ROADSTER
+51,HURACAN  PERFORMANTE SPYDER
+52,AVENTADOR S
+53,HURACAN EVO SPYDER
+54,URUS PERFORMANTE
+55,AVENTADOR ULTIMAE
+56,HURACAN EVO RWD
+57,AVENTADOR SVJ ROADSTER
+58,URUS S
+59,HURACAN STO
+60,AVENTADOR LP 780-4 ULTIMATE
+61,HURACAN EVO RWD SPYDER
+62,AVENTADOR SVJ XAGO
+63,URUS GRAPHITE CAPSULE
+64,HURACAN STO EVO
+65,AVENTADOR LP 780-4 ULTIMATE ROADSTER
+66,GHOST
+67,WRAITH
+68,DAWN
+69,CULLINAN
+70,PHANTOM EXTENDED
+71,GHOST EXTENDED
+72,WRAITH BLACK BADGE
+73,DAWN BLACK BADGE
+74,CULLINAN BLACK BADGE
+75,PHANTOM COUPE
+76,GHOST COUPE
+77,WRAITH COUPE
+78,DAWN CONVERTIBLE
+79,CULLINAN SUV
+80,BENZ S-CLASS S 580
+81,BENZ E-CLASS E 63 S
+82,BENZ CLA 45 AMG
+83,BENZ GLE 63 S
+84,BENZ S-CLASS S 500
+85,BENZ E-CLASS E 450
+86,BENZ CLS 450
+87,BENZ GT 53
+88,BENZ GLE 450
+89,BENZ A-CLASS A 45 S
+90,BENZ C-CLASS C 43
+91,BENZ E-CLASS E 350
+92,BENZ GLE 350
+93,BENZ GLC 43
+94,BENZ GLA 45
+95,BENZ GLC 350
+96,BENZ GLE 53
+97,BENZ S-CLASS S 350
+98,BENZ EQS 53
+99,BENZ MAYBACH S 680
+100,M5 CS
+101,M4 GTS
+102,M3 COMPETITION
+103,M2 CS
+104,X5 M COMPETITION
+105,X3 M COMPETITION
+106,M8 GRAN COUPE
+107,M850i DRIVE COUPE
+108,DAWN BLACK BADGE VOLANTE
+109,CULLINAN BLACK BADGE SUV
+110,PHATOM TRANQUILITY
+111,GHOST ZENITH
+112,WRAITH EAGLE VIII
+113,PHATOM ORCHID
+114,GHOST AZURE
+115,WRAITH KRYPTOS
+116,DAWN SILVER BULLET
+117,CULLINAN FUX ORANGE
+118,PHANTOM CELESTIAL
+119,GHOST MYSORE
+120,WRAITH LUMINARY
+121,DAWN BLACK BADGE ADAMAS
+122,CULLINAN RED DIAMOND
+123,R8 V10 PLUS
+124,RS7 SPORTBACK
+125,S8
+126,RS6 AVANT
+127,S7 SPORTBACK
+128,A8
+129,S5 COUPE
+130,SQ5
+131,S4 SEDAN
+132,S3 SEDAN
+133,Q7
+134,Q5
+135,A7
+136,A6
+137,A5 COUPE
+138,A4
+139,Q3
+140,E-TRON
+141,E-TRON SPORTBACK
+142,TT COUPE
+143,I8 ROADSTER
+144,330i
+145,M340i XDRIVE
+146,430i COUPE
+147,M4 COMPETITION
+148,530i
+149,M550i XDRIVE
+150,118i
+151,128ti
+152,M135i XDRIVE
+153,116D
+154,120D XDRIVE
+155,116i
+156,118D
+157,120i
+158,125i
+159,114D
+160,114i
+161,125D
+162,118i XDRIVE
+163,116D EFFICIENTDYNAMICS
+164,118i SPORTLINE
+165,118i M SPORT
+166,120i M SPORT
+167,116i EFFICIENTDYNAMICS
+168,116D ADVANTAGE
+169,120D EFFICIENTDYNAMICS
+170,118i SHADOW LINE
+171,118D SPORT LINE
+172,120i XDRIVE
+173,114D SPORT LINE
+174,118i URBAN LINE
+175,XC90
+176,XC60
+177,S90
+178,SPORTAGE LX
+179,SPORTAGE EX
+180,SPORTAGE GT-LINE
+181,SPORTAGE SX TURBO
+182,SPORTAGE NIGHTFALL EDITION
+183,CIVIC TYPE R
+184,SPORTAGE PHEV
+185,SPORTAGE 2024(BASE MODEL)
+186,SPORTAGE 2024(TOP TRIM)
+187,SPORTAGE 2024(BASE AWD)
+188,SPORTAGE X-LINE
+189,SPORTAGE 2024(S TRIM)
+190,ACCORD
+191,SPORTAGE 2024(HYBRID AWD)
+192,SPORTAGE 2024(PLUG-IN HYBRID AWD)
+193,SPORTAGE 2024(X-PRO)
+194,SPORTAGE 2024(X-PRO PRESTIGE)
+195,SPORTAGE 2024(SX TURBO AWD)
+196,SPORTAGE 2024(BASE FWD)
+197,CR-V
+198,PILOT
+199,CIVIC HATCHBACK
+200,CAMRY
+201,COROLLA
+202,PRIUS
+203,RAV4
+204,HIGHLANDER
+205,4RUNNER
+206,TACOMA
+207,TUNDRA
+208,AVALON
+209,MIRAI
+210,SIENNA
+211,VENZA
+212,HIGHLANDER HYBRID
+213,LAND CRUISER PRADO
+214,TUNDRA HYBRID
+215,YARIS
+216,C-HR
+217,BZ4X
+218,CROWN
+219,MR2
+220,CELICA
+221,CITY
+222,CIVIC
+223,I10
+224,I20
+225,ELANTRA
+226,XUV500
+227,SCORPIO
+228,THAR
+229,SWIFT
+230,DZIRE
+231,BREZZA
+232,PRIUS PRIME
+233,GR COROLLA
+234,LAND CRUISER 300
+235,TUNDRA I-FORCE MAX
+236,COROLLA HATCHBACK XSE
+237,HILUX GR SPORT
+238,ALPHARD EXECUTIVE LOUNGE
+239,FORTUNER GR SPORT
+240,INNOVA HYCROSS
+241,COASTER
+242,URBAN CRUISER TAISOR
+243,AYGO X
+244,HILUX REVO ROCCO
+245,PROACE VERSO ELECTRIC
+246,CENTURY SUV
+247,COROLLA SEDAN HYBRID
+248,BZ3
+249,GR YARIS
+250,SANTA FE
+251,IONIQ 5
+252,Santa Cruz
+253,Kona
+254,Elantra
+255,Urvan
+256,IONIQ 6
+257,Tucson
+258,Palisade
+259,Sonata
+260,Accent
+261,Venue
+262,KONA Electric
+263,Veloster
+264,NEXO
+265,Ioniq
+266,Genesis
+267,Azera
+268,Equus
+269,Tiburon
+270,Elantra GT
+271,Golf
+272,Passat
+273,Tiguan
+274,Jetta
+275,Polo
+276,Arteon
+277,ID.4
+278,Up!
+279,Touareg
+280,Scirocco
+281,Beetle
+282,Amarok
+283,T-Roc
+284,Sharan
+285,Caddy
+286,NV1500
+287,Taigo
+288,California
+289,ID.3
+290,ID. Buzz
+291,Golf GTI
+292,Golf R
+293,Passat Alltrack
+294,Polo GTI
+295,Up! GTI
+296,T-Cross
+297,ID.5
+298,ID. Buzz Cargo
+299,Touareg R
+300,Multivan
+301,Polo BlueMotion
+302,Golf Sportsvan
+303,Golf Alltrack
+304,Scirocco R
+305,Tiguan Allspace
+306,Arteon 4MOTION
+307,ID.4 GTX
+308,ID.3 Pro
+309,Golf Variant
+310,Crafter
+311,Lupo
+312,Corrado
+313,Phaeton
+314,Golf Cabriolet
+315,Santana
+316,Polo Vivo
+317,Karmann Ghia
+318,Fox
+319,Vento
+320,Golf Electric
+321,Bora
+322,Teramont
+323,Taos
+324,Up! Cabriolet
+325,T-Roc Cabriolet
+326,Passat CC
+327,Transporter
+328,Amarok V6
+329,ID.2
+330,Polo TDI
+331,Golf GTE
+332,Touareg V8
+333,Beetle Dune
+334,Passat B8
+335,ID.4 Pro S
+336,Golf Country
+337,Jetta GLI
+338,Arteon Shooting Brake
+339,T-Cross R-Line
+340,Golf R32
+341,Passat B7
+342,Scirocco 16V
+343,Golf Variant GTD
+344,Polo GTI R5
+345,ID. Buzz Pro
+346,Jetta Hybrid
+347,Golf Variant Alltrack
+348,Volkswagen XL1
+349,Golf TDI
+350,Passat Variant
+351,Polo GTI Clubsport
+352,ID.3 GTX
+353,Arteon R-Line
+354,Golf TGI
+355,Scirocco GTS
+356,Caddy Maxi
+357,Volkswagen Lupo 3L
+358,Polo Beats
+359,Passat Hybrid
+360,Golf TCR
+361,Tiguan R-Line
+362,Sharan Business
+363,ID. Buzz Cargo Pro
+364,Arteon 280 TSI
+365,Jetta GLI 35th
+366,Beetle Final Edition
+367,Golf Variant TDI
+368,Golf 4MOTION
+369,Jetta SportWagen
+370,Polo GTI Plus
+371,Touareg V6
+372,Tiguan eHybrid
+373,Up! e-up!
+374,Amarok V8
+375,Golf R Cabriolet
+376,Passat Alltrack TDI
+377,ID. Buzz Cargo EV
+378,Versa
+379,Micra
+380,Patrol Platinum
+381,Qashqai
+382,Murano
+383,Maxima Platinum
+384,Armada
+385,Kicks
+386,X-Trail
+387,Z (Fairlady Z)
+388,Almera
+389,Sylphy
+390,Note
+391,Sunny
+392,Cube
+393,Juke
+394,Terrano
+395,Magnite
+396,Xterra
+397,Patrol
+398,GT-R NISMO
+399,370Z Roadster
+400,Ariya
+401,Patrol Royale
+402,Infiniti QX80*
+403,Tiida
+404,Pulsar
+405,Latio
+406,Bluebird Sylphy
+407,March
+408,Rogue Sport
+409,X-Trail Hybrid
+410,Pathfinder Rock Creek
+411,Armada Platinum
+412,Terrano XL
+413,GT-R50 by Italdesign
+414,370Z NISMO
+415,Ariya E-4ORCE
+416,Patrol NISMO
+417,Infiniti Q60*
+418,Primera
+419,Skyline
+420,Cedric
+421,Gloria
+422,Stanza
+423,Patrol Super Safari
+424,Pathfinder Hybrid
+425,X-Terra Pro-4X
+426,Rogue Platinum
+427,Qashqai Tekna
+428,GT-R V-Spec
+429,Skyline NISMO
+430,Ariya Lounge Edition
+431,Patrol Titanium
+432,Infiniti FX50*
+433,Avenir
+434,Wingroad
+435,Presea
+436,Leopard
+437,Sunny NISMO Edition
+438,Paladin
+439,Hardbody SUV
+440,Patrol Desert Edition
+441,Pathfinder Armada
+442,Rogue Midnight Edition
+443,GT-R Black Edition
+444,Fairlady Z Heritage
+445,Skyline GT-R R34
+446,Ariya Premiere
+447,Infiniti QX55*
+448,NV350 Caravan
+449,Navara
+450,Titan XD
+451,Evalia
+452,Cabstar
+453,Cherry
+454,Laurel
+455,Silvia
+456,NX Coupe
+457,AD Wagon
+458,Patrol Super Safari Y61
+459,Pathfinder Rock Creek Edition
+460,Terrano II
+461,Murano CrossCabriolet
+462,X-Trail Tekna
+463,GT-R LM NISMO
+464,Skyline 400R
+465,Infiniti G37*
+466,Patrol Black Edition
+467,Ariya Empower+
+468,Datsun 510 (Classic)
+469,200SX
+470,300ZX
+471,R390 GT1 Road Car
+472,Figaro
+473,Hardbody Truck
+474,Atlas
+475,Clipper
+476,NV200
+477,Violet
+478,Bluebird Z
+479,Stanza Wagon
+480,180SX
+481,Sunny California
+482,Patrol Warrior
+483,Pathfinder Armada Platinum
+484,Rogue Sport SL
+485,X-Trail Platinum Edition
+486,Qashqai e-Power
+487,GT-R Egoist
+488,Infiniti M45*
+489,Skyline 50th Anniversary
+490,Ariya Dual Motor AWD
+491,Patrol Legend Edition
+492,Datsun 240Z (Classic)
+493,100NX
+494,Cedric Special Edition
+495,300ZX Turbo
+496,Silvia S15 Spec-R
+497,NV400
+498,Titan Warrior
+499,Caravan Coach
+500,Serena e-Power
+501,Elgrand
+502,Datsun 510
+503,Prairie
+504,Pulsar GTI-R
+505,Almera Tino
+506,Lucino
+507,Rasheen
+508,Mistral
+509,Patrol Y60
+510,X-Trail GT
+511,Terrano Regulus
+512,President
+513,Cima
+514,Leopard J. Ferie
+515,Gloria Gran Turismo
+516,Infiniti Q45*
+517,Datsun 240Z
+518,280ZX
+519,Silvia S13
+520,NV2500
+521,NV3500
+522,NT400 Cabstar
+523,Panamera
+524,Panamera 4
+525,Panamera 4S
+526,Panamera Turbo S
+527,Panamera GTS
+528,Panamera Platinum Edition
+529,Panamera E-Hybrid
+530,Panamera 4 E-Hybrid Sport Turismo
+531,Panamera Turbo S E-Hybrid
+532,Panamera 4 Executive
+533,Cayenne
+534,Cayenne Coupe
+535,Cayenne S
+536,Cayenne Turbo
+537,Cayenne GTS
+538,Cayenne Turbo S E-Hybrid
+539,Macan
+540,Macan S
+541,Macan GTS
+542,Macan T
+543,911 Carrera
+544,911 Carrera S
+545,911 Carrera 4
+546,911 Carrera 4S
+547,911 Targa 4
+548,911 Turbo
+549,911 Turbo S
+550,911 GT3
+551,911 GT3 RS
+552,911 Dakar
+553,Taycan
+554,Taycan 4S
+555,Taycan Turbo
+556,Taycan Turbo S
+557,Taycan GTS
+558,Taycan Cross Turismo
+559,Taycan Sport Turismo
+560,718 Cayman
+561,718 Cayman S
+562,718 Cayman GT4
+563,718 Cayman GT4 RS
+564,718 Boxster
+565,718 Boxster T
+566,718 Boxster GTS
+567,718 Spyder
+568,Panamera Base
+569,Panamera 4 E-Hybrid
+570,Panamera 4 Sport Turismo
+571,Panamera Turbo S E-Hybrid Sport Turismo
+572,Panamera 4S E-Hybrid Executive
+573,Panamera GTS Sport Turismo
+574,Panamera Turbo Executive
+575,Panamera Turbo S Exclusive Series
+576,Macan Base
+577,Macan EV
+578,Cayenne Base
+579,Cayenne E-Hybrid
+580,Cayenne S Coupe
+581,Cayenne Turbo GT
+582,Cayenne Platinum Edition
+583,Cayenne Turbo S E-Hybrid Coupe
+584,Cayenne GTS Coupe
+585,Cayenne Diesel (Regional Markets)
+586,Cayenne S Hybrid
+587,Cayenne Coupe Turbo E-Hybrid
+588,Taycan Base
+589,CT4
+590,CT4-V
+591,CT5
+592,CT5-V
+593,Taycan Cross Turismo 4
+594,Taycan Cross Turismo GTS
+595,Taycan Sport Turismo Base
+596,Taycan Sport Turismo GTS
+597,Taycan Turbo S Cross Turismo
+598,911 Carrera Base
+599,911 Carrera S Cabriolet
+600,911 Carrera 4 GTS
+601,911 Targa 4 GTS
+602,911 Turbo Cabriolet
+603,911 Turbo S Coupe
+604,911 GT3 Touring
+605,911 GT3 RS Clubsport
+606,911 Dakar Limited Edition
+607,911 Carrera GTS Lightweight
+608,911 Targa 4 Lightweight
+609,911 Turbo Exclusive Series
+610,911 GT2 RS
+611,911 GT3 Cup
+612,911 GT4 RS
+613,911 RSR (Motorsport Edition)
+614,911 Sport Turismo
+615,911 Turbo Cabriolet Lightweight
+616,911 Dakar Sport
+617,Tiago
+618,Tiago EV
+619,Altroz
+620,Altroz DCA
+621,Altroz iTurbo
+622,Altroz CNG
+623,Tiago NRG
+624,Nano GenX
+625,Indica eV2
+626,Indica V2 Xeta
+627,Tigor
+628,Tigor EV
+629,Zest
+630,Indigo eCS
+631,Escalade
+632,Indigo Marina
+633,Manza
+634,Indigo LX
+635,Indigo GLX
+636,Escalade ESV
+637,Nexon
+638,Nexon EV Max
+639,Harrier
+640,Safari
+641,Punch
+642,Hexa
+643,Aria
+644,Sumo Gold
+645,Sumo Grande
+646,Nexon EV Prime
+647,Model S
+648,Model S Plaid
+649,Model 3
+650,Model 3 Performance
+651,Model X
+652,Model X Plaid
+653,Model Y
+654,Model Y Long Range
+655,Cybertruck
+656,Roadster 2
+657,Wrangler
+658,Wrangler Rubicon
+659,Grand Cherokee
+660,Grand Cherokee L
+661,Cherokee
+662,Compass
+663,Renegade
+664,Gladiator
+665,Wagoneer
+666,Grand Wagoneer
+667,Grand Cherokee 4xe
+668,Wrangler 4xe
+669,Compass 4xe
+670,Renegade 4xe
+671,Mazda2
+672,Wagoneer S (Electric)
+673,Gladiator Mojave Edition
+674,Grand Cherokee Summit Reserve
+675,Jeep Cherokee X Edition
+676,Wrangler 392
+677,XT4
+678,XT5
+679,XT6
+680,Lyriq EV
+681,Escalade V
+682,Escalade Platinum
+683,CT5-V Blackwing
+684,CT4-V Blackwing
+685,XT4 Sport
+686,XT5 Sport
+687,XT6 Sport
+688,Lyriq Launch Edition
+689,Lyriq EV Premium
+690,CT5 Premium Luxury
+691,Spark
+692,Sonic
+693,Malibu
+694,Camaro
+695,Corvette
+696,Traverse
+697,Equinox
+698,Blazer
+699,Tahoe
+700,Suburban
+701,Colorado
+702,Silverado 1500
+703,Silverado 2500HD
+704,Silverado 3500HD
+705,Bolt EV
+706,Bolt EUV
+707,Trailblazer
+708,Malibu Premier
+709,Camaro ZL1
+710,Corvette Stingray
+711,Silverado 1500 High Country
+712,Silverado 1500 Trail Boss
+713,Silverado 1500 RST
+714,Colorado ZR2
+715,Traverse Premier
+716,Equinox Premier
+717,Blazer RS
+718,Bolt EV 2LT
+719,Camaro SS
+720,Corvette Grand Sport
+721,Traverse RS
+722,Blazer Premier
+723,Malibu LT
+724,Spark Activ
+725,Trax LT
+726,Equinox LT
+727,Silverado 3500HD High Country
+728,Colorado WT
+729,Suburban High Country
+730,Silverado Custom
+731,Spark LS
+732,Traverse LT
+733,Blazer LT
+734,Equinox RS
+735,Silverado 1500 Custom
+736,Silverado 2500HD LTZ
+737,Tahoe RST
+738,Suburban LT
+739,Bolt EV Premier
+740,Tahoe LS
+741,Tahoe LT
+742,Tahoe Z71
+743,Tahoe Premier
+744,Tahoe High Country
+745,Tahoe Midnight Edition
+746,Tahoe Sport Edition
+747,Terrain
+748,Acadia
+749,Yukon
+750,Yukon XL
+751,Canyon
+752,Sierra 1500
+753,Sierra 2500HD
+754,Sierra 3500HD
+755,Hummer EV Pickup
+756,Hummer EV SUV
+757,Yukon Denali
+758,Sierra Denali
+759,Terrain AT4
+760,Acadia AT4
+761,Sierra 1500 AT4
+762,Sierra 2500HD Denali
+763,Sierra Elevation
+764,Canyon AT4
+765,Canyon Denali
+766,Yukon XL Denali Ultimate
+767,Terrain Denali
+768,Acadia Denali
+769,Yukon AT4
+770,Yukon XL AT4
+771,Sierra 1500 Elevation
+772,Sierra 1500 SLT
+773,Sierra 2500HD AT4
+774,Sierra 3500HD AT4
+775,Canyon Elevation
+776,Canyon Denali Black Edition
+777,Sierra 1500 Denali Ultimate
+778,Yukon XL Denali Reserve
+779,Terrain Elevation Edition
+780,Acadia Black Edition
+781,Hummer EV SUV Edition 1
+782,Hummer EV Pickup Edition 1
+783,Sierra Denali CarbonPro
+784,Yukon Denali Performance
+785,Sierra 2500HD Denali Black Edition
+786,Canyon AT4X
+787,Yukon XL SLT
+788,Sierra 1500 Pro
+789,Sierra 2500HD Pro
+790,Sierra 3500HD Pro
+791,Terrain SLT
+792,Acadia SLE
+793,Canyon SLT
+794,Yukon XL Elevation
+795,Sierra 1500 AT4X
+796,Hummer EV SUV Extreme Off-Road
+797,Sierra EV Denali
+798,Hummer EV Omega Edition
+799,Canyon AT4X Edition 1
+800,Yukon Denali Ultimate Black
+801,Sierra HD Denali Reserve
+802,Acadia Denali Ultimate
+803,Terrain All-Terrain Edition
+804,Yukon Trailering Edition
+805,Hummer EV Adventure Series
+806,Rio
+807,Rio 5-Door
+808,Seltos Nightfall Edition
+809,508 PSE (Peugeot Sport Engineered)
+810,Sorento X-Line
+811,Telluride SX
+812,Forte LXS
+813,K5 EX
+814,Niro Plug-In Hybrid
+815,EV6 Wind
+816,Soul Turbo
+817,Seltos SX
+818,Stinger Scorpion Edition
+819,Sorento Hybrid SX Prestige
+820,Carnival EX
+821,Telluride Nightfall Edition
+822,508 Plug-In Hybrid
+823,EV6 First Edition
+824,Niro Touring
+825,Forte GT-Line
+826,Seltos EX
+827,3008 Plug-In Hybrid
+828,Sorento LX
+829,Telluride EX
+830,Soul EX
+831,Forte FE
+832,K5 GT-Line
+833,Carnival LXS
+834,EV6 Light
+835,Niro EX
+836,Stinger GT
+837,Sorento SX Prestige
+838,Telluride SX Prestige
+839,508 Hybrid4
+840,EV6 GT Performance
+841,Niro SX Touring
+842,Carnival SX Prestige
+843,Seltos SX Turbo
+844,Forte EX Premium
+845,Soul EX Designer Edition
+846,Rio S
+847,Rio 5-Door S
+848,Soul S
+849,Seltos LX
+850,3008 Hybrid4
+851,Sorento Hybrid EX
+852,Telluride LX
+853,Carnival MPV EX
+854,EV6 AWD GT-Line
+855,Forte GT Turbo
+856,Soul GT Designer Edition
+857,Seltos X-Line Turbo
+858,e-2008 GT
+859,Telluride Limited Edition
+860,Stinger GT-Line
+861,Carnival Special Edition
+862,Niro SX Hybrid
+863,EV6 First Edition AWD
+864,Sorento X-Pro Hybrid
+865,Forte Limited Edition
+866,Chiron
+867,Chiron Pur Sport
+868,Chiron Super Sport
+869,Chiron Sport
+870,Chiron Noire
+871,Divo
+872,Centodieci
+873,La Voiture Noire
+874,Bolide
+875,Volvo FH
+876,Volvo FH16
+877,Volvo FM
+878,Volvo FMX
+879,Volvo VNL
+880,Volvo VNR
+881,Volvo VHD
+882,Volvo FE
+883,Volvo FL
+884,Jaguar F-Type
+885,Jaguar XE
+886,Jaguar XF
+887,Jaguar XJ
+888,Jaguar E-PACE
+889,Jaguar I-PACE
+890,Jaguar F-PACE
+891,Jaguar X-TYPE
+892,Jaguar F-PACE R-Dynamic
+893,Jaguar XE R-Dynamic
+894,Jaguar F-Type SVR
+895,Jaguar I-PACE Electric Performance
+896,Jaguar F-PACE SVR
+897,Jaguar XE S
+898,Jaguar XF R-Dynamic
+899,Jaguar XJ LWB (Long Wheelbase)
+900,Jaguar F-Type Heritage Edition
+901,Jaguar E-PACE S
+902,Jaguar I-PACE HSE
+903,Jaguar F-Type V8 R
+904,Jaguar F-Type R-Dynamic
+905,Jaguar XE P300 R-Dynamic
+906,Jaguar XF Sportbrake
+907,Jaguar I-PACE EV400 HSE
+908,Jaguar F-PACE S 30t AWD
+909,Jaguar E-PACE R-Dynamic
+910,Jaguar XJ50
+911,Jaguar F-Type 75th Anniversary Edition
+912,Jaguar F-PACE S AWD
+913,Jaguar XE SE
+914,Jaguar F-Type V6 S Convertible
+915,Jaguar XE R-Sport AWD
+916,Jaguar XF Portfolio AWD
+917,Jaguar F-Type Coupe R
+918,Jaguar I-PACE First Edition
+919,Jaguar F-PACE Prestige AWD
+920,Jaguar XJ Supercharged
+921,Jaguar F-Type P450 AWD
+922,Jaguar F-PACE P400e Plug-in Hybrid
+923,Jaguar F-Type P300 Coupe
+924,NSX Type S
+925,TLX PMC Edition
+926,MDX Advance
+927,RDX Technology
+928,ILX Premium
+929,TLX A-Spec
+930,RDX SH-AWD
+931,MDX SH-AWD
+932,RDX Platinum Elite
+933,TLX A-Spec Sedan
+934,TLX 2.4L
+935,MDX Hybrid
+936,RDX Hybrid
+937,ILX Technology Package
+938,NSX GT3 (Track Version)
+939,RDX Turbo AWD
+940,TLX 3.5L V6
+941,ILX Special Edition
+942,MDX SH-AWD w/Technology Package
+943,NSX 3.5L Hybrid Coupe
+944,MDX Elite
+945,TLX V6 Advance
+946,NSX Carbon Edition
+947,RDX Turbo SH-AWD
+948,ILX Technology Plus
+949,TLX Type S PMC Edition
+950,MDX Sport Hybrid
+951,208
+952,2008
+953,301
+954,308
+955,3008
+956,5008
+957,508
+958,Partner
+959,Expert
+960,Boxer
+961,e-208
+962,e-2008
+963,208 GTI
+964,308 GTI
+965,308 Allure
+966,2008 Allure
+967,3008 Allure
+968,5008 Allure
+969,508 Allure
+970,3008 GT
+971,508 GT
+972,3008 GT Hybrid
+973,5008 GT Hybrid
+974,208 Allure Premium
+975,Partner Tepee
+976,Expert L2H1
+977,Boxer L2H2
+978,Partner Electric
+979,Expert Electric
+980,208 PSE (Peugeot Sport Engineered)
+981,308 PSE
+982,508 PSE
+983,3008 PSE
+984,2008 Active
+985,3008 Active
+986,5008 Active
+987,3008 Allure Premium
+988,5008 Allure Premium
+989,3008 GT Line
+990,5008 GT Line
+991,2008 GT
+992,5008 GT
+993,508 SW (Station Wagon)
+994,508 Saloon
+995,308 Saloon
+996,301 Sedan
+997,208 Sedan
+998,Fusion (Mondeo)
+999,Taurus
+1000,Fiesta
+1001,Focus
+1002,EcoSport
+1003,Escape (Kuga)
+1004,Edge
+1005,Explorer
+1006,Expedition
+1007,Bronco
+1008,Bronco Sport
+1009,F-150
+1010,F-250 Super Duty
+1011,F-350 Super Duty
+1012,Maverick
+1013,Ranger
+1014,Mustang Mach-E
+1015,F-150 Lightning
+1016,Escape Hybrid
+1017,Explorer Hybrid
+1018,Mustang
+1019,GT
+1020,Focus ST
+1021,Fiesta ST
+1022,Bronco Raptor
+1023,Ranger Raptor
+1024,F-150 Raptor
+1025,Puma
+1026,Territory
+1027,Everest
+1028,Flex
+1029,Transit
+1030,Transit Connect
+1031,F-450 Super Duty
+1032,F-550 Super Duty
+1033,Mustang Shelby GT500
+1034,Mustang Shelby GT350
+1035,F-150 Platinum
+1036,F-150 Limited
+1037,Explorer Platinum
+1038,Expedition King Ranch
+1039,Transit Custom
+1040,E-Series Cutaway
+1041,Transit Chassis Cab
+1042,Transit Electric (E-Transit)
+1043,Explorer Plug-in Hybrid
+1044,Maverick Hybrid
+1045,Mustang (2024)
+1046,Ranger (2024)
+1047,Escape Plug-in Hybrid (2024)
+1048,Bronco (2024)
+1049,Explorer (2024)
+1050,Mirage
+1051,Mirage G4
+1052,Outlander
+1053,Outlander PHEV
+1054,Eclipse Cross
+1055,ASX (Outlander Sport)
+1056,Pajero
+1057,Pajero Sport
+1058,Triton (L200)
+1059,Lancer Evolution X
+1060,i-MiEV (Electric)
+1061,Xpander
+1062,Delica D:5
+1063,Colt
+1064,Grandis
+1065,Outlander Black Edition
+1066,Outlander SEL
+1067,Outlander SE
+1068,Eclipse Cross Black Edition
+1069,ASX Exceed
+1070,Triton Athlete
+1071,Pajero Final Edition
+1072,L200 Barbarian X
+1073,Space Star
+1074,Lancer EX
+1075,Montero Sport
+1076,Attrage
+1077,RVR SE
+1078,Delica Van
+1079,Canter (Truck)
+1080,Lancer GLX
+1081,Pajero GLS
+1082,Xpander Cross
+1083,Eclipse Cross PHEV
+1084,Outlander ES
+1085,Montero GLX
+1086,Triton GLX-R
+1087,ASX Dynamic
+1088,Mirage ES
+1089,Outlander LE
+1090,Fuso Fighter (Truck)
+1091,Fuso Canter Eco Hybrid
+1092,Space Runner
+1093,Toppo BJ
+1094,Chariot
+1095,Lancer SE Limited
+1096,Pajero SWB (Short Wheel Base)
+1097,Delica Space Gear
+1098,i (Kei Car)
+1099,Dion
+1100,Airtrek
+1101,eK Space
+1102,eK X
+1103,Colt CZC Convertible
+1104,Galant Fortis
+1105,Endeavor
+1106,Grand Lancer
+1107,Sigma
+1108,Town Box
+1109,Minicab MiEV
+1110,Mazda3
+1111,Mazda3 Hatchback
+1112,Mazda6
+1113,CX-3
+1114,CX-30
+1115,CX-5
+1116,CX-50
+1117,CX-8
+1118,CX-9
+1119,CX-90
+1120,MX-5 Miata
+1121,MX-5 Miata RF
+1122,MX-30 Electric
+1123,CX-4
+1124,CX-7
+1125,Tribute
+1126,B-Series Pickup
+1127,BT-50
+1128,RX-7
+1129,RX-3
+1130,RX-Vision Concept
+1131,323F
+1132,Familia Sedan
+1133,Premacy
+1134,Demio
+1135,Millenia
+1136,Eunos Cosmo
+1137,Atenza
+1138,Roadpacer AP
+1139,626
+1140,929
+1141,Luce
+1142,Capella
+1143,Carol
+1144,Autozam AZ-1
+1145,Spiano
+1146,Verisa
+1147,MX-6
+1148,MPV
+1149,Proceed Marvie
+1150,Sentia
+1151,Cronos
+1152,Scrum
+1153,Parkway
+1154,Titan (Truck)
+1155,CX-60
+1156,CX-80
+1157,T1500
+1158,Bongo Van
+1159,Bongo Friendee
+1160,Revue
+1161,Protegé
+1162,Xedos 6
+1163,Xedos 9
+1164,121
+1165,1200
+1166,1500
+1167,RX-2
+1168,RX-5
+1169,RX-7 Spirit R
+1170,Cosmo Sport (110S)
+1171,Eunos 500
+1172,Eunos Roadster
+1173,Familia Astina
+1174,Savanna RX-7
+1175,Capella Cargo
+1176,818
+1177,Sentia Hardtop Coupe
+1178,Biante
+1179,Premacy Hydrogen RE Hybrid
+1180,Carol P360
+1181,T2000
+1182,AZ-Offroad
+1183,Scrum Wagon
+1184,Persona
+1185,Astina
+1186,Etude
+1187,Porter
+1188,MX-3
+1189,MX-5 Superlight Concept
+1190,Premacy Hydrogen RE
+1191,Bongo Truck
+1192,Rotary Pickup
+1193,Luce Rotary Coupe
+1194,Millenia S
+1195,787B (Race Car)
+1196,Crown Signia
+1197,4Runner (6th Gen)
+1198,Corolla Cross
+1199,C-HR+
+1200,RAV4 (6th Gen)
